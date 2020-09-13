@@ -1,3 +1,6 @@
 # Smart_CCTV_Camera
 With increased mass shootings the number of lives lost are increasing every year. We decided to come up with a solution by combining machine learning algorithms with the existing CCTV setups prevalent at most places. Developing such a system will create a safer environment and will improve upon the existing human moderated system which are not only less accurate but require constant surveillance. Our project will employ the latest and most accurate computer vision algorithms designed to identify such weapons, distinguish
 between people authorized to carry firearms and those who are not and also have a gesture mechanism built in to notify respective authorities. At the end of this development effort we will achieve a system which will be able to identify potential troublemakers and do so without human assistance. This will help in safeguarding lives and will create a comparatively safer environment in places where you don’t expect people to have weapons, like airports and schools.
+
+Weight files: https://drive.google.com/drive/folders/1lYQtmvouK2asvjic1JhZaB-Xb_iZzSoz?usp=sharing
+Dataset : https://drive.google.com/file/d/1beyn71BfMfaSjIj3TKhqlHA_MZseMtxk/view?usp=sharing
